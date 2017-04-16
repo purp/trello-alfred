@@ -190,19 +190,19 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>Trello for Alfred v0.8
+	<string>Trello for Alfred v0.9
 =============================
 
 ![Trello for Alfred Workflow Screenshot](http://files.dtb.me/trello-alfred/screenshots.png)
 
-**Description:** Trello Workflow for the Mac OS app **Alfred v2** that *allows you to quickly create new cards with labels* on your **Trello** board lists.
+**Description:** Trello Workflow for the Mac OS app **Alfred v2 and beyond** that *allows you to quickly create new cards with labels* on your **Trello** board lists.
 
 **Version:** 0.8
 
 Installation &amp; Setup
 -------------------------------
 
--	Double click on the trello.alfredworkfow file to have Alfred v2 automatically install this workflow
+-	Double click on the trello.alfredworkfow file to have Alfred automatically install this workflow
 -	Open Alfred and enter the trigger: **trello**
 	-	Select **Authorize Trello**
 	-	This will open a browser window and ask for permission to access your Trello account
